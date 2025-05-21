@@ -29,4 +29,6 @@ int main(){
         printf("Estoque normal! \n ");
     }
 
+    return 0;
+
 }
