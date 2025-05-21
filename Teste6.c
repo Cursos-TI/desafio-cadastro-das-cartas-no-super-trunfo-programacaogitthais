@@ -18,7 +18,7 @@ int main(){
     }
 
     if(umidade > 50){
-        prntf("Umidade elevada. \n");
+        printf("Umidade elevada. \n");
     } else{
         printf("Umidade está dentro dos parâmetros \n");
     }
